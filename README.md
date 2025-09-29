@@ -1,2 +1,4 @@
-# SC_302_Documentacion_MN_Dannyobando
-Esta es mi primera	práctica con GitHub.
+# SC\_302\_Documentacion\_MN\_Dannyobando
+
+Esta es mi primera práctica con GitHub
+
